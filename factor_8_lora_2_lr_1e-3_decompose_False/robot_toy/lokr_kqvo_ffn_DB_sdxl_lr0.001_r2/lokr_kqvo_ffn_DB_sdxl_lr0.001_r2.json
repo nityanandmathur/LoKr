@@ -1,0 +1,15 @@
+{
+    "Dataset_Name": "robot_toy",
+    "diffusion_version": "sdxl",
+    "lr_scheduler": "constant",
+    "seed": 0,
+    "unet_tune_mlp": true,
+    "clipi": 0.791015625,
+    "clipt": 0.287919921875,
+    "num_train_steps": 1000,
+    "no_of_images": 5,
+    "learning_rate": 0.001,
+    "output_path": "/home/btech/nityanand.mathur/output_lokr/factor_8_lora_2_lr_1e-3_decompose_False/robot_toy/lokr_kqvo_ffn_DB_sdxl_lr0.001_r2-",
+    "with_prior_preservation": false,
+    "what_config": "kqvo"
+}
